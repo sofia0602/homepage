@@ -11813,3 +11813,58 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.first_block {
+  display: flex;
+  justify-content: center;
+  margin-right: 10%;
+  align-items: flex-end;
+}
+.first_block h4 {
+  background-color: chocolate;
+  text-align: center;
+  color: white;
+  margin-right: 6px;
+  min-width: 80px;
+  min-height: 10px;
+}
+.second_block {
+  margin-left: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second_block h4 {
+  background-color: chocolate;
+  text-align: center;
+  color: white;
+  margin-right: 6px;
+  min-width: 110px;
+  min-height: 10px;
+}
+.three_block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.three_block h4 {
+  background-color: chocolate;
+  text-align: center;
+  color: white;
+  margin-right: 6px;
+  min-width: 130px;
+  min-height: 10px;
+}
+.four_block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.four_block h4 {
+  background-color: chocolate;
+  text-align: center;
+  color: white;
+  margin-right: 6px;
+  min-width: 100px;
+  min-height: 10px;
+}
